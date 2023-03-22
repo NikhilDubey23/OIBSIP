@@ -1,3 +1,4 @@
+
 let result = document.getElementById("result");
 
 function getResult(num) {
